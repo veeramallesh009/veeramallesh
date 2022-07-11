@@ -1,0 +1,8 @@
+1)enter the register
+2)read the register
+3)define the position of CKE, P and S bit 
+4)clear the three bit position using bitwise operation
+5)print the SSPSTAT after clear the three bits
+6)calling function and passing the arguments
+7)define bit postions
+8)print the three bits value(i.e UA,BF,SMP)
