@@ -1,0 +1,6 @@
+//write program to clear(0) bits CIS, CM2, CM1, CM0 in register “CMCON” if bits CHS3, CHS2, CHS1, CHS0 bits are set to 0x07 in register “ADCON0”
+1)Enter the two registers
+2)read the  two registers
+3)chech 5 4 3 2 bits of register “ADCON0”are equivlent to 7 or not
+4)If Equal  the second register of  the first 4bit will be zero using add operation with F0
+5)print the second register
