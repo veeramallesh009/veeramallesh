@@ -1,0 +1,9 @@
+Algorithm
+1)enter the register
+2)Read register “ADCON0”
+3) check register “ADCON0” is equal to 0x06
+    3.1) if it is equal 
+    3.2) read register “CMCON”
+    3.3)arrange the 3 7 6 bits of register “CMCON” in the following order
+    3.4) and set those bit position
+4) print that value
